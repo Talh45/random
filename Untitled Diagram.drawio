@@ -1,9 +1,39 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Page-1" id="tzyAopBWSpLpL_I_cgvO">
-    <mxGraphModel>
+    <mxGraphModel dx="754" dy="397" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="J-zxdNlvDIyKi81fFfWP-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="120" width="180" x="40" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="J-zxdNlvDIyKi81fFfWP-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="120" width="160" x="400" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J-zxdNlvDIyKi81fFfWP-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="120" width="160" x="400" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="J-zxdNlvDIyKi81fFfWP-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Management Block" vertex="1">
+          <mxGeometry height="30" width="120" x="70" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="J-zxdNlvDIyKi81fFfWP-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Office 1" vertex="1">
+          <mxGeometry height="30" width="120" x="420" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="J-zxdNlvDIyKi81fFfWP-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Office 2" vertex="1">
+          <mxGeometry height="30" width="120" x="420" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="J-zxdNlvDIyKi81fFfWP-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="CEO:&lt;br&gt;We need to hire two Devops Engineers" vertex="1">
+          <mxGeometry height="60" width="110" x="100" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="J-zxdNlvDIyKi81fFfWP-8" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="160" y="70" as="sourcePoint" />
+            <mxPoint x="180" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-zxdNlvDIyKi81fFfWP-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Senior Manager" vertex="1">
+          <mxGeometry height="30" width="100" x="120" y="180" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
