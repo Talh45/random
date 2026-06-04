@@ -34,6 +34,69 @@
         <mxCell id="J-zxdNlvDIyKi81fFfWP-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Senior Manager" vertex="1">
           <mxGeometry height="30" width="100" x="120" y="180" as="geometry" />
         </mxCell>
+        <mxCell id="J-zxdNlvDIyKi81fFfWP-10" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="120" y="200" as="sourcePoint" />
+            <mxPoint x="80" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-zxdNlvDIyKi81fFfWP-11" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HR" vertex="1">
+          <mxGeometry height="20" width="40" x="50" y="220" as="geometry" />
+        </mxCell>
+        <mxCell id="J-zxdNlvDIyKi81fFfWP-12" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="90" y="230" as="sourcePoint" />
+            <mxPoint x="130" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-zxdNlvDIyKi81fFfWP-13" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;entryX=0.125;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;" target="J-zxdNlvDIyKi81fFfWP-2" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="140" />
+            </Array>
+            <mxPoint x="200" y="180" as="sourcePoint" />
+            <mxPoint x="290" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-zxdNlvDIyKi81fFfWP-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Team Lead" vertex="1">
+          <mxGeometry height="20" width="90" x="410" y="100" as="geometry" />
+        </mxCell>
+        <mxCell id="J-zxdNlvDIyKi81fFfWP-21" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Rohit&lt;br&gt;Virat&lt;div&gt;(If one leaves)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="100" x="460" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J-zxdNlvDIyKi81fFfWP-22" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Client" vertex="1">
+          <mxGeometry height="20" width="60" x="40" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="J-zxdNlvDIyKi81fFfWP-23" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Account" vertex="1">
+          <mxGeometry height="15" width="90" x="30" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="J-zxdNlvDIyKi81fFfWP-24" edge="1" parent="1" source="J-zxdNlvDIyKi81fFfWP-9" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="340" y="170" />
+            </Array>
+            <mxPoint x="250" y="190" as="sourcePoint" />
+            <mxPoint x="420" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-zxdNlvDIyKi81fFfWP-25" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="SME" vertex="1">
+          <mxGeometry height="20" width="40" x="490" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="J-zxdNlvDIyKi81fFfWP-26" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <Array as="points">
+              <mxPoint x="507.5" y="120" />
+            </Array>
+            <mxPoint x="487.5" y="110" as="sourcePoint" />
+            <mxPoint x="522.5" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J-zxdNlvDIyKi81fFfWP-27" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Team Lead" vertex="1">
+          <mxGeometry height="20" width="90" x="400" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="J-zxdNlvDIyKi81fFfWP-28" parent="1" style="ellipse;whiteSpace=wrap;html=1;" value="Rohit&lt;br&gt;Virat&lt;div&gt;(If one leaves)&lt;/div&gt;" vertex="1">
+          <mxGeometry height="70" width="100" x="460" y="220" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
