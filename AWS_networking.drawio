@@ -8,7 +8,7 @@
           <mxGeometry height="340" width="630" x="90" y="80" as="geometry" />
         </mxCell>
         <mxCell id="-8WCIihWLCMBjyAu2Hue-3" parent="1" style="sketch=0;outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_vpc;strokeColor=#B6BABF;fillColor=none;verticalAlign=top;align=left;spacingLeft=30;fontColor=#B6BABF;dashed=0;" value="VPC" vertex="1">
-          <mxGeometry height="280" width="560" x="120" y="120" as="geometry" />
+          <mxGeometry height="280" width="560" x="120" y="110" as="geometry" />
         </mxCell>
         <mxCell id="-8WCIihWLCMBjyAu2Hue-6" parent="1" style="points=[[0,0],[0.25,0],[0.5,0],[0.75,0],[1,0],[1,0.25],[1,0.5],[1,0.75],[1,1],[0.75,1],[0.5,1],[0.25,1],[0,1],[0,0.75],[0,0.5],[0,0.25]];outlineConnect=0;gradientColor=none;html=1;whiteSpace=wrap;fontSize=12;fontStyle=0;container=1;pointerEvents=0;collapsible=0;recursiveResize=0;shape=mxgraph.aws4.group;grIcon=mxgraph.aws4.group_security_group;grStroke=0;strokeColor=#7AA116;fillColor=#F2F6E8;verticalAlign=top;align=left;spacingLeft=30;fontColor=#248814;dashed=0;" value="Public subnet" vertex="1">
           <mxGeometry height="190" width="200" x="160" y="170" as="geometry" />
@@ -24,6 +24,12 @@
         </mxCell>
         <mxCell id="-8WCIihWLCMBjyAu2Hue-12" edge="1" parent="1" source="-8WCIihWLCMBjyAu2Hue-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=0.855;entryDx=0;entryDy=0;entryPerimeter=0;" target="-8WCIihWLCMBjyAu2Hue-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-8WCIihWLCMBjyAu2Hue-16" edge="1" parent="1" style="shape=link;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="100" as="geometry">
+            <mxPoint x="360" y="270" as="sourcePoint" />
+            <mxPoint x="440" y="270" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
