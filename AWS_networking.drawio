@@ -23,10 +23,10 @@
           <mxGeometry height="81" width="76.5" x="60" y="49" as="geometry" />
         </mxCell>
         <mxCell id="-8WCIihWLCMBjyAu2Hue-8" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58534;gradientColor=none;" value="" vertex="1">
-          <mxGeometry height="40" width="40" x="380" y="100" as="geometry" />
+          <mxGeometry height="40" width="40" x="390" y="90" as="geometry" />
         </mxCell>
         <mxCell id="-8WCIihWLCMBjyAu2Hue-9" parent="1" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.route_table;fillColor=#F58536;gradientColor=none;" value="" vertex="1">
-          <mxGeometry height="40" width="40" x="560" y="140" as="geometry" />
+          <mxGeometry height="40" width="40" x="280" y="150" as="geometry" />
         </mxCell>
         <mxCell id="-8WCIihWLCMBjyAu2Hue-12" edge="1" parent="1" source="-8WCIihWLCMBjyAu2Hue-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.855;entryY=0.855;entryDx=0;entryDy=0;entryPerimeter=0;" target="-8WCIihWLCMBjyAu2Hue-8">
           <mxGeometry relative="1" as="geometry" />
